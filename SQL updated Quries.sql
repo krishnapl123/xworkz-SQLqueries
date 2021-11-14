@@ -26,9 +26,8 @@ INSERT INTO Book_Details VALUES(8,'Java complete Reference','Ballguru Swamy',795
                                (9,'Computer Networks','Ballguru Swamy',1000,2009,'V1'),
                                (10,'The fault in our Stars','John Green',1300,2012,'V2'),
                                (11,'The Alchemist','John Green',1020,2002,'V2'),
-                               (12,'The Hunger Games','Suzanne collins',1500,2008,'V3');
-
-
+                               (12,'The Hunger Games','Suzanne collins',1500,2008);
+SELECT * FROM Book_Details;
 
 
 
